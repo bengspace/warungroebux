@@ -1,0 +1,12 @@
+{
+  "name": "warung-roebux",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'ROEBUX STORE Static + Vercel Serverless API Ready'"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
