@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "echo 'ROEBUX STORE Static + Vercel Serverless API Ready'"
+    "build": "mkdir -p public && cp index.html public/"
   },
   "engines": {
     "node": ">=18.x"
